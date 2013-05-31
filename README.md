@@ -24,3 +24,11 @@ usage: deb_reboot [-h] [-q] [-s] [-v] [-d]
   -d, --debug    debug mode
 
 Note : A good use case for the -q option, is for monitoring solutions like Nagios.
+
+History
+=======
+
+v0.2 : Code cleaning
+
+v0.1 : First release
+
